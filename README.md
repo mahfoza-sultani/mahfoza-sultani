@@ -89,16 +89,16 @@
 - 🤝 Open to collaboration and mentorship
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sultani2023&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahfoza-sultani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sultani2023&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sultani2023&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfoza-sultani&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Sultani2023&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="contribution graph" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=mahfoza-sultani&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="contribution graph" />
 </p>
 
 <p align="center">
