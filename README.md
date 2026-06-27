@@ -61,14 +61,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C9FF&height=3&section=header" width="100%" />
 </p>
 
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahfoza-sultani&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C9FF&height=3&section=header" width="100%" />
-</p>
 
 
 ### 📂 Featured Projects
