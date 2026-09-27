@@ -61,8 +61,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C9FF&height=3&section=header" width="100%" />
 </p>
 
-
-
 ### 📂 Featured Projects
 
 | Project | Description |
@@ -75,7 +73,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C9FF&height=3&section=header" width="100%" />
 </p>
 
-### 🌐 Connect With Me<p align="center">
+### 🌐 Connect With Me
+
+<p align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahfoza-sultani)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mhz_sultani?igsh=MTk0MDJid2ZodTZidg==)
@@ -87,7 +87,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:00C9FF&height=3&section=header" width="100%" />
 </p>
 
-
 ### ✨ About Me
 
 - 📍 Based in Afghanistan
@@ -97,7 +96,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahfoza-sultani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahfoza-sultani&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=mahfoza-sultani&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
